@@ -22,7 +22,7 @@ class Contact
         this.email=email;
     }
 }
-let conta1= new Contact('himanshu','singh','bsnl','bsp','cg','454554','83483489','hs@gmail.com');
+let conta1= new Contact('Himanshu','singh','bsnl','bsp','cg','454554','83483489','hs@gmail.com');
 console.log(conta1);
 
 
